@@ -6821,7 +6821,7 @@ footer.diamond-footer {
 	height: 48px;
 	line-height: 46px;
 	text-align: center;
-	color: #6780ff;
+	color: #ff0000;
 	font-size: 20px;
 	display: block;
 	-webkit-transition: all 300ms;
@@ -6829,7 +6829,7 @@ footer.diamond-footer {
 }
 
 .widget-area .socials li i {
-	color: #6780ff;
+	color: #ff0000;
 	font-size: 20px;
 	-webkit-transition: all 400ms;
 	transition: all 400ms;
@@ -6839,7 +6839,7 @@ footer.diamond-footer {
 .widget-area .socials ul li a:hover,
 .widget-area .socials ul li:hover a {
 	color: #000;
-	background: #6780ff;
+	background: #ff0000;
 }
 
 .widget-area .socials li:hover i,
